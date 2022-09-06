@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrackMe</string>
+    <string name="not_granted">Permissions not granted</string>
+</resources>
